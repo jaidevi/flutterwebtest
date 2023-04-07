@@ -80312,7 +80312,7 @@ iQ(a,b,c,d,e){return this.agc(a,b,c,d,e)},
 agc(a4,a5,a6,a7,a8){var s=0,r=A.U(t.z),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3
 var $async$iQ=A.V(function(a9,b0){if(a9===1){p=b0
 s=q}while(true)switch(s){case 0:a1=t.N
-a2=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*"],a1,a1)
+a2=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],a1,a1)
 q=3
 $.arI().toString
 n=A.l4(J.auV(a5,"Login"),0,null)
@@ -80390,7 +80390,7 @@ hy(a,b,c,d,e,f){return this.T8(a,b,c,d,e,f)},
 T8(b0,b1,b2,b3,b4,b5){var s=0,r=A.U(t.z),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9
 var $async$hy=A.V(function(b6,b7){if(b6===1){p=b7
 s=q}while(true)switch(s){case 0:a7=t.N
-a8=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*"],a7,a7)
+a8=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],a7,a7)
 q=3
 $.arI().toString
 n=A.l4(b1+"getchoices",0,null)
@@ -80476,7 +80476,7 @@ u9(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,
 Uf(a,b,c,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6){var s=0,r=A.U(t.H),q=1,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$u9=A.V(function(e7,e8){if(e7===1){p=e8
 s=q}while(true)switch(s){case 0:g=t.N
-f=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*"],g,g)
+f=A.aw(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],g,g)
 q=3
 $.arI().toString
 o=A.l4("https://pdf.medicall.in/api/v1/store-pdqform-entires",0,null)
